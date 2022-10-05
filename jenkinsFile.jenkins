@@ -1,1 +1,5 @@
-echo "Oi Mundo!"
+node {
+stage 'testing'
+echo 'before input'
+stage 'testing 2'
+}
